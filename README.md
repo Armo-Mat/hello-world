@@ -1,2 +1,3 @@
 # hello-world
-just an other repository
+my first repository
+the best qa courses
